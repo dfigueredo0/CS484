@@ -1,0 +1,20 @@
+Mood,Effort,Score < 46.0,Output
+Happy,Low,True,Yes
+Happy,High,True,Yes
+Sad,Low,True,Yes
+Happy,Low,True,Yes
+Neutral,Medium,False,No
+Neutral,High,False,No
+Happy,High,False,No
+Neutral,High,False,No
+Happy,Low,False,No
+Sad,Low,False,No
+Sad,Medium,False,Yes
+Sad,High,False,Yes
+Neutral,Medium,False,Yes
+Sad,Low,False,Yes
+Neutral,Low,False,No
+Happy,Medium,False,No
+Happy,Medium,False,No
+Sad,High,False,No
+Sad,Medium,False,No
